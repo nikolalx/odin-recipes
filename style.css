@@ -1,21 +1,15 @@
 
-<style>
-div {
-    color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);
+.click {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
 }
-h1 {
-    background-color: red;
+
+#myButton {
+    border-radius: 13px;
+    background-color: black;
     color: white;
 }
 
-.myDiv {
-    background-color: aqua;
-    font-size: 38px;
-    color: rgb(0, 0, 0);
-    font-weight: bold;
-    text-align: center;
-    display: inline-block;
-    
+#myButton1 {
+    background-color: yellow;
 }
-</style>
