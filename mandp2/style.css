@@ -1,0 +1,48 @@
+body {
+    background-color: silver;
+    margin: 0 auto;
+    max-width: 600px;
+    font-family: sans-serif;
+
+}
+
+.card{
+    background-color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.card1 {
+    font-size: 16px;
+    font-weight: bold;
+    display: block;
+    padding: 8px;
+}
+
+.card2 {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.card3 {
+    padding: 8px;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin-left: 220px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 1px solid;
+}
+
+
+.card1, .card2, .card3 {
+    margin: 8px;
+    background-color:rgb(233, 233, 255);
+}
